@@ -10,5 +10,5 @@ spec:
     #email: infrastructure@example.com
     #picture: https://example.com/groups/bu-infrastructure.jpeg
   parent: Enterprise Solutions
-  #children: [backstage, other]
+  children: []
   members: [fauhat]
