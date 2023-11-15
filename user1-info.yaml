@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: fauhat
+spec:
+  profile:
+    displayName: Fauhat Ali Khan Panni
+    email: fauhat@erainfotechbd.com
+    #picture: https://example.com/staff/jenny-with-party-hat.jpeg
+  memberOf: [avengers]
