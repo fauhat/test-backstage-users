@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: enterprise solutions
+  name: enterprise-solutions
   #description: The infra business unit
 spec:
   type: department
