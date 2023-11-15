@@ -9,6 +9,6 @@ spec:
     displayName: Avengers
     #email: infrastructure@example.com
     #picture: https://example.com/groups/bu-infrastructure.jpeg
-  parent: Enterprise Solutions
+  parent: enterprise-solutions
   children: []
   members: [fauhat]
